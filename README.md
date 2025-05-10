@@ -23,7 +23,7 @@ Pretendo por meio desse perfil documentar o progresso dos meus estudos na área 
 ## 📫 Entre em contato comigo: 
 <div>
    <a href="mailto:isa.cardoso0447@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> <!---gmail--->
-   <a href="in/isabella-cardoso-dos-santos-7641982b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <!---linkedin--->
+   <a href="www.linkedin.com/in/isacardosods" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <!---linkedin--->
    <a href="https://wa.me/5511993114452" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> <!---whatsapp--->
 </div>
 
