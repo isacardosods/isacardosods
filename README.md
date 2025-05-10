@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oieee! :) 👋
+## 💬 Me chamo Isabella Cardoso dos Santos, tenho 17 anos, moro na cidade de São Paulo e sou fascinada por games e tecnologia! Atualmente estudo na Etec Professor Adhemar Batista Heméritas, onde curso o 3° ano do Ensino Médio com Habilitação Técnica e Profissional em Informática para a Internet. 
+🎯 Pretendo por meio desse perfil documentar o progresso dos meus estudos na área de Tecnologia da Infomação, aprimorando minhas habilidades e projetos.
 
-<!--
-**isacardosods/isacardosods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📈 Progresso atual:
 
-Here are some ideas to get you started:
+## 👾 Um pouco sobre mim:
+- 🌱 Estou atualmente estudando: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#📫 Entre em contato comigo: 
+- 📩 Email: isa.cardoso0447@gmail.com
+- ☎️ Tel: (11) 99311-4452
+
+
+
