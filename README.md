@@ -11,11 +11,11 @@ Pretendo por meio desse perfil documentar o progresso dos meus estudos na área 
 
 ## 🌱 Estou atualmente estudando:
 <div style="display: inline-block">
-  <img align="center" alt="figma" width="60 "height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-  <img align="center" alt="html" width="60 "height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="css" width="60 "height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="js" width="60 "height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="java" width="80 "height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="spring" width="80 "height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" alt="mysql" width="60 "height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="postgree" width="70 "height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="center" alt="docker" width="70 "height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
 </div>
 <br>
   
