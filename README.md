@@ -2,13 +2,6 @@
 💬 Me chamo Isabella Cardoso dos Santos, tenho 17 anos, moro na cidade de São Paulo e sou fascinada por games e tecnologia! Atualmente estudo na Etec Professor Adhemar Batista Heméritas, onde curso o 3° ano do Ensino Médio com Habilitação Técnica e Profissional em Informática para a Internet. <p>
 Pretendo por meio desse perfil documentar o progresso dos meus estudos na área de Tecnologia da Infomação, aprimorando minhas habilidades e projetos.
 
-## 🎯 Progresso atual:
-<br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacardosods&show_icons=true&theme=dark"/>
-</div>
-<br> 
-
 ## 🌱 Estou atualmente estudando:
 <div style="display: inline-block">
   <img align="center" alt="java" width="80 "height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
