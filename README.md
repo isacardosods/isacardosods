@@ -5,7 +5,7 @@ Pretendo por meio desse perfil documentar o progresso dos meus estudos na área 
 ## 🎯 Progresso atual:
 <br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacardosods&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacardosods&show_icons=true&theme=dark"/>
 </div>
 <br> 
 
